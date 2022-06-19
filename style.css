@@ -555,6 +555,7 @@ main button:active {
   width: 8px;
 }
 
+
 ::-webkit-scrollbar-thumb {
   background: var(--grey-6);
   border-radius: 9px;
